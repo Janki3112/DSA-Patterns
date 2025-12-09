@@ -1,5 +1,5 @@
 # DSA-Patterns
-1. Two Pointers
+1. Two Pointers https://github.com/Janki3112/DSA-Patterns/tree/main/1.%20Two%20Pointers
 2. Fast and Slow Pointer
 3. Sliding Window
 4. Merge Intervals
